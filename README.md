@@ -19,7 +19,7 @@ $ npm i --save is-assemble-partial-exist
 
 In assemble plugin:
 ```js
-var isPartialExist = require('./');
+var isPartialExist = require('is-assemble-partial-exist');
 
 module.exports = function (params, cb) {
 

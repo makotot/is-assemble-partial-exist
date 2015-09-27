@@ -1,6 +1,6 @@
 {
   "name": "is-assemble-partial-exist",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Check if the partial is found in the partial directories",
   "main": "index.js",
   "scripts": {
